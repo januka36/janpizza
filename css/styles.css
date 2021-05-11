@@ -43,7 +43,7 @@ body {
 
 .index-banner {
   width: 100%;
-  background-image: url("/img/Wallpaper/wall6.jpg");
+  background-image: url("../img/Wallpaper/wall6.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
@@ -52,7 +52,7 @@ body {
 
 .menu-banner {
   width: 100%;
-  background-image: url("/img/Wallpaper/wall2.jpg");
+  background-image: url("../img/Wallpaper/wall2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
@@ -70,7 +70,7 @@ body {
 
 .contactus-banner {
   width: 100%;
-  background-image: url("/img/Wallpaper/wall1.jpg");
+  background-image: url("../img/Wallpaper/wall1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
